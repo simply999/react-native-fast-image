@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/e0c6869bd1295b7a46e19d50cc99a881/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/e0c6869bd1295b7a46e19d50cc99a881/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/e0c6869bd1295b7a46e19d50cc99a881/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/e0c6869bd1295b7a46e19d50cc99a881/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/e0c6869bd1295b7a46e19d50cc99a881/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/e0c6869bd1295b7a46e19d50cc99a881/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/anim/abc_tooltip_enter.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/c8ccc89483325188b4670d81365ef73e/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/yeahmobi/Work/kikitrade/node_modules/react-native-fast-image/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/yeahmobi/.gradle/caches/transforms-2/files-2.1/04f78e38f9e293ddbadf9899b3d7afee/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]
