@@ -45,16 +45,29 @@ function FastImageBase({
         )
     }
 
-    let isValidUrl = (string) => {
-        if(string.startsWith('https://') || string.startsWith('http://')){
-            return true;
-        }
-        return false;
-    }
+    // let isValidUrl = (string) => {
+    //     if(string.startsWith('https://') || string.startsWith('http://')){
+    //         return true;
+    //     }
+    //     return false;
+    // }
+
+    // function isAssetTypeAnImage(ext) {
+    //   return [
+    //   'png', 'jpg', 'jpeg', 'bmp', 'gif', 'webp', 'psd', 'svg', 'tiff'].
+    //   indexOf(ext.toLowerCase()) !== -1;
+    // }
+    // let filePath = source && source.uri ? source.uri : '',
+    //     index= filePath.lastIndexOf(".");
+    //     ext = filePath.substr(index+1);
+
+    // console.log("Is Image: " + isAssetTypeAnImage(ext));
+
 
     if(source && typeof source == 'object'){
         if(source && source.uri){
-            if(!isValidUrl(source.uri) ){
+            // if(!isValidUrl(source.uri) && !isAssetTypeAnImage(ext)){
+            if(source.uri.indexOf('undefined') != -1){
                 console.log('fast found bad uri'+ source.uri)
                 return <View/>
             }
