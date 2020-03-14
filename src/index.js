@@ -46,27 +46,27 @@ function FastImageBase({
     }
 
     let isValidUrl = (string) => {
-        if(string.startsWith('https://') || string.startsWith('http://')){
+        if(string.startsWith('https://') || string.startsWith('http://') || string.startsWith('/') ){
             return true;
         }
         return false;
     }
 
-    // function isAssetTypeAnImage(ext) {
-    //   return [
-    //   'png', 'jpg', 'jpeg', 'bmp', 'gif', 'webp', 'psd', 'svg', 'tiff'].
-    //   indexOf(ext.toLowerCase()) !== -1;
-    // }
-    // let filePath = source && source.uri ? source.uri : '',
-    //     index= filePath.lastIndexOf(".");
-    //     ext = filePath.substr(index+1);
+    function isAssetTypeAnImage(ext) {
+      return [
+      'png', 'jpg', 'jpeg', 'bmp', 'gif', 'webp', 'psd', 'svg', 'tiff'].
+      indexOf(ext.toLowerCase()) !== -1;
+    }
+    let filePath = source && source.uri ? source.uri : '',
+        index= filePath.lastIndexOf(".");
+        ext = filePath.substr(index+1);
 
-    // console.log("Is Image: " + isAssetTypeAnImage(ext));
+    console.log("Is Image: " + isAssetTypeAnImage(ext));
 
 
     if(source && typeof source == 'object'){
         if(source && source.uri){
-            if(!isValidUrl(source.uri) && !source.uri.startsWith('file:') && !source.uri.startsWith('data:image')){
+            if(!isValidUrl(source.uri) && !isAssetTypeAnImage(ext) && !source.uri.startsWith('data:image')){
                 console.log('fast found bad uri'+ source.uri)
                 return <View/>
             }
