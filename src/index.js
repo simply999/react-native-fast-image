@@ -45,12 +45,12 @@ function FastImageBase({
         )
     }
 
-    // let isValidUrl = (string) => {
-    //     if(string.startsWith('https://') || string.startsWith('http://')){
-    //         return true;
-    //     }
-    //     return false;
-    // }
+    let isValidUrl = (string) => {
+        if(string.startsWith('https://') || string.startsWith('http://')){
+            return true;
+        }
+        return false;
+    }
 
     // function isAssetTypeAnImage(ext) {
     //   return [
@@ -66,8 +66,7 @@ function FastImageBase({
 
     if(source && typeof source == 'object'){
         if(source && source.uri){
-            // if(!isValidUrl(source.uri) && !isAssetTypeAnImage(ext)){
-            if(source.uri.indexOf('undefined') != -1){
+            if(!isValidUrl(source.uri) && !source.uri.startsWith('file:') && !source.uri.startsWith('data:image')){
                 console.log('fast found bad uri'+ source.uri)
                 return <View/>
             }
