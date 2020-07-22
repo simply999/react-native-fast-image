@@ -61,13 +61,13 @@ function FastImageBase({
         index= filePath.lastIndexOf(".");
         ext = filePath.substr(index+1);
 
-    console.log("Is Image: " + isAssetTypeAnImage(ext));
+    // console.log("Is Image: " + isAssetTypeAnImage(ext));
 
 
     if(source && typeof source == 'object'){
         if(source && source.uri){
             if(!isValidUrl(source.uri) && !isAssetTypeAnImage(ext) && !source.uri.startsWith('data:image')){
-                console.log('fast found bad uri'+ source.uri)
+                // console.log('fast found bad uri'+ source.uri)
                 return <View/>
             }
         }
